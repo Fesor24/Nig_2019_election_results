@@ -1,6 +1,6 @@
 # Nigeria's 2019 Presidential Election Results
 
-As Nigeria prepare for her 8th General elections, I decided to take it back and refresh my memory on how the last elections played out. In this analysis primary focus is placed on the top two (2) political parties as all the states in the Nigerian Federation were won by either of the parties. While the data collected includes the votes count distribution of the top five (5) political parties in each states, visualization of the analysis was only in respect of the top two (2) candidates because of the reason stated above.
+As Nigeria prepare for her 8th General elections, I decided to take it back and refresh my memory on how the last elections played out. In this analysis primary focus is placed on the top two (2) political parties as all the states in the Nigerian Federation were won by either of the parties. While the data collected includes the votes count distribution of the top five (5) political parties in each states, visualization of the analysis was only in respect of the top two (2) candidates because of the reason stated above. Another reason why this was a project I did is because I do have interest in Politics and the nature of my undergraduate degree which is Law has a kind of bearing with politics, governance. You can't totally separate Law and Politics. It is somewhat intertwined.
 
 ## Data Collection
 
