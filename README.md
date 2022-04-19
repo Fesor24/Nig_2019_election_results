@@ -16,6 +16,5 @@ After scraping the data and converting it to dataframes, I imported the csv file
 ## Data Visualization
 After analysis with MySql, I imported the csv files to Tableau for visualization. I created a dashboard which contains the map of Nigeria showing, among other viosuals, different states won by each political party, an horizontal bar chart showing the total votes of the top 2 political parties by region, an horizontal bar chart showing the total votes in all states of the top 2 political parties, a stacked column chart showing the distribution of votes across the various states between the top 2 parties and so on. With the aid of this dashoard, on a glance you can grasp a lot of information on how the last general elections played out.
 
-[Election Dashboard](https://public.tableau.com/views/Nigeria2019ElectionResults/Nigeria2019Electionresults?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 # Thank you
