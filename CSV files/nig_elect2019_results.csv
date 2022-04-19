@@ -1,0 +1,186 @@
+state_name,candidates,political_party,votes,percent_diff%
+Abia,Atiku Abubakar ,PDP,219698,67.96
+Abia,Muhammadu Buhari ,APC,85058,26.31
+Abia,Gbor John Wilson Terwase ,APGA,9638,2.98
+Abia,Felix Nicolas ,PCP,1489,0.46
+Abia,Kingsley Moghalu ,YPP,720,0.22
+Adamawa,Atiku Abubakar ,PDP,410266,50.55
+Adamawa,Muhammadu Buhari ,APC,378078,46.59
+Adamawa,Obadiah Mailafia ,ADC,3989,0.49
+Adamawa,Felix Nicolas ,PCP,3670,0.45
+Adamawa,Omoyele Sowore ,AAC,282,0.03
+Akwa Ibom,Atiku Abubakar ,PDP,395832,68.39
+Akwa Ibom,Muhammadu Buhari ,APC,175429,30.31
+Akwa Ibom,Felix Nicolas ,PCP,1902,0.33
+Akwa Ibom,Obadiah Mailafia ,ADC,230,0.04
+Akwa Ibom,Omoyele Sowore ,AAC,222,0.04
+Anambra,Atiku Abubakar ,PDP,524738,86.63
+Anambra,Muhammadu Buhari ,APC,33298,5.5
+Anambra,Gbor John Wilson Terwase ,APGA,30034,4.96
+Anambra,Felix Nicolas ,PCP,4374,0.72
+Anambra,Kingsley Moghalu ,YPP,4091,0.68
+Bauchi,Muhammadu Buhari ,APC,798428,77.95
+Bauchi,Atiku Abubakar ,PDP,209313,20.43
+Bauchi,Felix Nicolas ,PCP,2104,0.21
+Bauchi,Obadiah Mailafia ,ADC,296,0.03
+Bauchi,Omoyele Sowore ,AAC,183,0.02
+Bayelsa,Atiku Abubakar ,PDP,197933,61.51
+Bayelsa,Muhammadu Buhari ,APC,118821,36.93
+Bayelsa,Felix Nicolas ,PCP,1584,0.49
+Bayelsa,Obadiah Mailafia ,ADC,1078,0.34
+Bayelsa,Omoyele Sowore ,AAC,126,0.04
+Benue,Atiku Abubakar ,PDP,356817,48.95
+Benue,Muhammadu Buhari ,APC,347668,47.7
+Benue,Gbor John Wilson Terwase ,APGA,4582,0.63
+Benue,Felix Nicolas ,PCP,2793,0.38
+Benue,Kingsley Moghalu ,YPP,557,0.08
+Borno,Muhammadu Buhari ,APC,836496,90.94
+Borno,Atiku Abubakar ,PDP,71788,7.8
+Borno,Felix Nicolas ,PCP,1563,0.17
+Borno,Obadiah Mailafia ,ADC,301,0.03
+Borno,Omoyele Sowore ,AAC,269,0.03
+Cross River,Atiku Abubakar ,PDP,295737,70.1
+Cross River,Muhammadu Buhari ,APC,117302,27.8
+Cross River,Felix Nicolas ,PCP,2033,0.48
+Cross River,Obadiah Mailafia ,ADC,326,0.08
+Cross River,Omoyele Sowore ,AAC,242,0.06
+Delta,Atiku Abubakar ,PDP,594068,71.59
+Delta,Muhammadu Buhari ,APC,221292,26.67
+Delta,Felix Nicolas ,PCP,2753,0.33
+Delta,Omoyele Sowore ,AAC,1626,0.2
+Delta,Obadiah Mailafia ,ADC,1075,0.13
+Ebonyi,Atiku Abubakar ,PDP,258573,72
+Ebonyi,Muhammadu Buhari ,APC,90726,25.26
+Ebonyi,Felix Nicolas ,PCP,1637,0.46
+Ebonyi,Fela Durotoye ,ANN,683,0.19
+Ebonyi,Gbor John Wilson Terwase ,APGA,222,0.06
+Edo,Atiku Abubakar ,PDP,275691,49.17
+Edo,Muhammadu Buhari ,APC,267842,47.77
+Edo,Felix Nicolas ,PCP,3526,0.63
+Edo,Omoyele Sowore ,AAC,3106,0.55
+Edo,Obadiah Mailafia ,ADC,850,0.15
+Ekiti,Muhammadu Buhari ,APC,219231,57.52
+Ekiti,Atiku Abubakar ,PDP,154032,40.41
+Ekiti,Felix Nicolas ,PCP,2299,0.6
+Ekiti,Obadiah Mailafia ,ADC,406,0.11
+Ekiti,Omoyele Sowore ,AAC,400,0.1
+Enugu,Atiku Abubakar ,PDP,355553,84.45
+Enugu,Muhammadu Buhari ,APC,54423,12.93
+Enugu,Felix Nicolas ,PCP,2337,0.56
+Enugu,Gbor John Wilson Terwase ,APGA,1618,0.38
+Enugu,Kingsley Moghalu ,YPP,1379,0.33
+FCT,Atiku Abubakar ,PDP,259997,61.33
+FCT,Muhammadu Buhari ,APC,152224,35.91
+FCT,Felix Nicolas ,PCP,2921,0.69
+FCT,Kingsley Moghalu ,YPP,1083,0.26
+FCT,Fela Durotoye ,ANN,652,0.15
+Gombe,Muhammadu Buhari ,APC,402961,72.71
+Gombe,Atiku Abubakar ,PDP,138484,24.99
+Gombe,Felix Nicolas ,PCP,1679,0.3
+Gombe,Oby Ezekwesili ,ACPN,732,0.13
+Gombe,Obadiah Mailafia ,ADC,248,0.04
+Imo,Atiku Abubakar ,PDP,334923,65.47
+Imo,Muhammadu Buhari ,APC,140463,27.46
+Imo,Gbor John Wilson Terwase ,APGA,10880,2.13
+Imo,Felix Nicolas ,PCP,4883,0.95
+Imo,Kingsley Moghalu ,YPP,676,0.13
+Jigawa,Muhammadu Buhari ,APC,794738,71.84
+Jigawa,Atiku Abubakar ,PDP,289895,26.21
+Jigawa,Felix Nicolas ,PCP,2761,0.25
+Jigawa,Obadiah Mailafia ,ADC,261,0.02
+Jigawa,Omoyele Sowore ,AAC,226,0.02
+Kaduna,Muhammadu Buhari ,APC,993445,59.72
+Kaduna,Atiku Abubakar ,PDP,649612,39.05
+Kaduna,Felix Nicolas ,PCP,4027,0.24
+Kaduna,Gbor John Wilson Terwase ,APGA,749,0.05
+Kaduna,Obadiah Mailafia ,ADC,558,0.03
+Kano,Muhammadu Buhari ,APC,1464768,77.45
+Kano,Atiku Abubakar ,PDP,391593,20.71
+Kano,Felix Nicolas ,PCP,3568,0.19
+Kano,Obadiah Mailafia ,ADC,591,0.03
+Kano,Gbor John Wilson Terwase ,APGA,549,0.03
+Katsina,Muhammadu Buhari ,APC,1232133,79.21
+Katsina,Atiku Abubakar ,PDP,308056,19.8
+Katsina,Felix Nicolas ,PCP,2399,0.15
+Katsina,Gbor John Wilson Terwase ,APGA,331,0.02
+Katsina,Obadiah Mailafia ,ADC,237,0.02
+Kebbi,Muhammadu Buhari ,APC,581552,76.86
+Kebbi,Atiku Abubakar ,PDP,154282,20.39
+Kebbi,Felix Nicolas ,PCP,1794,0.24
+Kebbi,Obadiah Mailafia ,ADC,285,0.04
+Kebbi,Omoyele Sowore ,AAC,276,0.04
+Kogi,Muhammadu Buhari ,APC,285894,54.87
+Kogi,Atiku Abubakar ,PDP,218207,41.88
+Kogi,Obadiah Mailafia ,ADC,4369,0.84
+Kogi,Felix Nicolas ,PCP,2207,0.42
+Kogi,Gbor John Wilson Terwase ,APGA,318,0.06
+Kwara,Muhammadu Buhari ,APC,308984,67.22
+Kwara,Atiku Abubakar ,PDP,138184,30.06
+Kwara,Felix Nicolas ,PCP,2108,0.46
+Kwara,Obadiah Mailafia ,ADC,456,0.1
+Kwara,Fela Durotoye ,ANN,422,0.09
+Lagos,Muhammadu Buhari ,APC,580825,53.31
+Lagos,Atiku Abubakar ,PDP,448015,41.12
+Lagos,Omoyele Sowore ,AAC,8910,0.82
+Lagos,Felix Nicolas ,PCP,8458,0.78
+Lagos,Fela Durotoye ,ANN,6946,0.64
+Nasarawa,Muhammadu Buhari ,APC,289903,49.92
+Nasarawa,Atiku Abubakar ,PDP,283847,48.87
+Nasarawa,Felix Nicolas ,PCP,1868,0.32
+Nasarawa,Gbor John Wilson Terwase ,APGA,1523,0.26
+Nasarawa,Obadiah Mailafia ,ADC,339,0.06
+Niger,Muhammadu Buhari ,APC,612371,71.88
+Niger,Atiku Abubakar ,PDP,218052,25.59
+Niger,Felix Nicolas ,PCP,2855,0.34
+Niger,Obadiah Mailafia ,ADC,588,0.07
+Niger,Gbor John Wilson Terwase ,APGA,389,0.05
+Ogun,Muhammadu Buhari ,APC,281762,49.94
+Ogun,Atiku Abubakar ,PDP,194655,34.5
+Ogun,Obadiah Mailafia ,ADC,25283,4.48
+Ogun,Felix Nicolas ,PCP,3563,0.63
+Ogun,Omoyele Sowore ,AAC,3196,0.57
+Ondo,Atiku Abubakar ,PDP,275901,49.62
+Ondo,Muhammadu Buhari ,APC,241769,43.48
+Ondo,Obadiah Mailafia ,ADC,6296,1.13
+Ondo,Felix Nicolas ,PCP,4829,0.87
+Ondo,Omoyele Sowore ,AAC,4414,0.79
+Osun,Muhammadu Buhari ,APC,347634,48.64
+Osun,Atiku Abubakar ,PDP,337377,47.21
+Osun,Felix Nicolas ,PCP,4888,0.68
+Osun,Obadiah Mailafia ,ADC,1525,0.21
+Osun,Omoyele Sowore ,AAC,1022,0.14
+Oyo,Atiku Abubakar ,PDP,366690,43.83
+Oyo,Muhammadu Buhari ,APC,365229,43.66
+Oyo,Obadiah Mailafia ,ADC,40830,4.88
+Oyo,Felix Nicolas ,PCP,5352,0.64
+Oyo,Omoyele Sowore ,AAC,4014,0.48
+Plateau,Atiku Abubakar ,PDP,548665,53.02
+Plateau,Muhammadu Buhari ,APC,468555,45.28
+Plateau,Felix Nicolas ,PCP,4276,0.41
+Plateau,Fela Durotoye ,ANN,796,0.08
+Plateau,Obadiah Mailafia ,ADC,590,0.06
+Rivers,Atiku Abubakar ,PDP,473971,73.81
+Rivers,Muhammadu Buhari ,APC,150710,23.47
+Rivers,Felix Nicolas ,PCP,2954,0.46
+Rivers,Gbor John Wilson Terwase ,APGA,614,0.1
+Rivers,Obadiah Mailafia ,ADC,597,0.09
+Sokoto,Muhammadu Buhari ,APC,490333,56.24
+Sokoto,Atiku Abubakar ,PDP,361604,41.47
+Sokoto,Felix Nicolas ,PCP,2630,0.3
+Sokoto,Obadiah Mailafia ,ADC,331,0.04
+Sokoto,Gbor John Wilson Terwase ,APGA,313,0.04
+Taraba,Atiku Abubakar ,PDP,374743,52.57
+Taraba,Muhammadu Buhari ,APC,324906,45.58
+Taraba,Gbor John Wilson Terwase ,APGA,1071,0.15
+Taraba,Felix Nicolas ,PCP,321,0.05
+Taraba,Oby Ezekwesili ,ACPN,218,0.03
+Yobe,Muhammadu Buhari ,APC,497914,89.01
+Yobe,Atiku Abubakar ,PDP,50763,9.08
+Yobe,Felix Nicolas ,PCP,2107,0.38
+Yobe,Gbor John Wilson Terwase ,APGA,226,0.04
+Yobe,Obadiah Mailafia ,ADC,162,0.03
+Zamfara,Muhammadu Buhari ,APC,438682,75.84
+Zamfara,Atiku Abubakar ,PDP,125423,21.68
+Zamfara,Felix Nicolas ,PCP,774,0.13
+Zamfara,Gbor John Wilson Terwase ,APGA,738,0.13
+Zamfara,Obadiah Mailafia ,ADC,186,0.03
